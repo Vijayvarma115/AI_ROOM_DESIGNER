@@ -271,7 +271,4 @@ For support and questions:
 4. Use PM2 or similar for process management
 5. Set up nginx as reverse proxy
 
----
-
-**Built with ❤️ using the MERN stack**
 
