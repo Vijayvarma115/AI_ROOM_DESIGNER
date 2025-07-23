@@ -7,7 +7,7 @@ const path = require('path');
 const connectDB = require('./config/database');
 const { DesignHistory, Feedback, ApiUsage } = require('./models');
 
-// Load environment variables
+// Load environment variables as per
 dotenv.config();
 
 // Connect to MongoDB
