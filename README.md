@@ -252,23 +252,12 @@ For support and questions:
 - Use the contact form in the application
 - Email: support@example.com
 
-## Deployment
+## Output Screenshots:
 
-### Frontend Deployment (Netlify/Vercel)
-1. Build the frontend: `npm run build`
-2. Deploy the `dist` folder
-3. Update API_BASE_URL to your backend URL
+<img width="1437" height="868" alt="frontend" src="https://github.com/user-attachments/assets/5565670a-2b0c-43fa-a0bf-1b90ededd8a4" />
 
-### Backend Deployment (Heroku/Railway)
-1. Set environment variables
-2. Deploy the backend folder
-3. Ensure MongoDB is accessible
 
-### Full-Stack Deployment (DigitalOcean/AWS)
-1. Set up a server with Node.js and MongoDB
-2. Clone the repository
-3. Follow the installation steps
-4. Use PM2 or similar for process management
-5. Set up nginx as reverse proxy
+
+<img width="997" height="752" alt="f2" src="https://github.com/user-attachments/assets/5a40a9dc-22c4-4343-85e1-3d850c98d5af" />
 
 
